@@ -1,5 +1,17 @@
 # 🌌 GlassHUD — Premium Cyberpunk Glassmorphism CSS Builder
 
+<p align="left">
+  <a href="https://rahulagarwal.tech/glasshud" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Application-00ffff?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Live App" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/license/rahulagarwal18/glasshud?style=for-the-badge&color=8b5cf6" alt="License" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/rahulagarwal18/glasshud?style=for-the-badge&color=00ffff" alt="GitHub Stars" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/forks/rahulagarwal18/glasshud?style=for-the-badge&color=8b5cf6" alt="GitHub Forks" />
+</p>
+
 GlassHUD is a premium, client-side web application that allows developers to visually configure glassmorphic user interface elements and instantly grab the generated CSS styles.
 
 Designed to match the high-fidelity cyber-noir aesthetics of **GitPulse**, it features responsive sliders, real-time preview panels, and custom glowing elements.
